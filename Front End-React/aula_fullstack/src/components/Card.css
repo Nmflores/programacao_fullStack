@@ -1,0 +1,15 @@
+.card{
+    margin:2px;
+    border:3px solid #000;
+    border-radius:15px;
+}
+
+.card-titulo{
+    color:#fff;
+    background:#000;
+    text-align: center;
+}
+
+.card-conteudo{
+    margin: 1px;
+}
